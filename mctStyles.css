@@ -30,11 +30,12 @@
 }
 .options{
     text-decoration: none;
-    color:black;
+    color: gray;
     font-size: 13px;
+    font-weight: 600;
 }
 .options:hover, .name{
-    font-weight: 1000;
+    color:black;
 }
 .signin{
     height: 30px;
